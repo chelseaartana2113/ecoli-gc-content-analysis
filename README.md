@@ -11,7 +11,6 @@ Average GC content: 50,16%
 The lowest GC content: 32,1%
 The highest GC content: 62,7%
 
-![GC Analysis](gc_analysis.png)
 
 ## visualization
 three plots were generated:
