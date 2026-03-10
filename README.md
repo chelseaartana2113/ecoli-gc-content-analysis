@@ -17,3 +17,7 @@ three plots were generated:
 - GC Content across genome E.coli
 - GC Content distribution across genome E.coli
 - GC Content scatter
+
+## GC Content Analysis of the Escherichia coli Genome – Mini Research Report
+
+-https://drive.google.com/file/d/1BYnH2kjR-YMrlg3sLi3gi_-d7ihRMoTT/view?usp=drivesdk
